@@ -90,4 +90,6 @@ int LoadData_Review(char *review, int Review_count); //후기 게시판 데이�
 -> 구현완료
 
 05/07 대략적인 구현은 마무리 되었고 디테일한 부분을 고쳐야됨
+05/11 개발 repository 변경중
 ~~~
+
